@@ -5,7 +5,7 @@ Shared Preferences, Yerel Dosya İşlemleri ve Sqflite - CRUD yapılarını kull
 
 ```bash
 # Clone this project
-$ git clone https://github.com/ferhatiltas/flutter_not_sepeti
+$ git clone https://github.com/ferhatiltas/Storage-Examples
 
 # Access
 $ cd Notes-App
