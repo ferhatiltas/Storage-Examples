@@ -8,7 +8,7 @@ Shared Preferences, Yerel Dosya İşlemleri ve Sqflite - CRUD yapılarını kull
 $ git clone https://github.com/ferhatiltas/Storage-Examples
 
 # Access
-$ cd Notes-App
+$ cd Storage-Examples
 
 # Pull dependencies
 $ flutter pub get
